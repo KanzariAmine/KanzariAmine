@@ -1,6 +1,6 @@
 ### Hi, I'm Amine. 👋
 
-## I'm a React Developper at EasyMovie
+## I'm a React Native Developper at Wayplay
 
 Here are some ideas to get you started:
 
